@@ -1,5 +1,7 @@
 # Login Form Using Context Api 
 A simple login form. It uses the React useState and useContext hooks to manage the state of the form and to set the user in the UserContext.
+
+![Screenshot](Login_form.png)
 ### Usage
 To use the Login component, simply import it into your component and render it. You will also need to provide the UserContextProvider component to your component tree so that the Login component can access the UserContext.
 ## User Interface (UI) Layer:
