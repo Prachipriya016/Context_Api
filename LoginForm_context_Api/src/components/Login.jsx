@@ -16,7 +16,7 @@ function Login() {
   
 
   return (
-    <div class="flex justify-center items-center mt-56">
+    <div class="flex justify-center items-center mt-40">
       {isVisible && (
         <div className="relative flex align-items center flex-col text-gray-700 bg-white shadow-md w-96 rounded-xl bg-clip-border">
           <div
